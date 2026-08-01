@@ -14,7 +14,7 @@
 
 <br>
 
-🚀 **Live Demo:** https://churnguard-ml.streamlit.app
+🚀 **Live Demo:** https://churnguard-ml-mahadi.streamlit.app
 
 <br>
 
@@ -65,24 +65,6 @@ ChurnGuard helps businesses:
 | ⚡ Fast Inference | Cached model loading for quick predictions |
 | 🎨 Premium Dashboard | Enterprise SaaS inspired UI |
 
-
----
-
-# 🖥️ Application Preview
-
-Add screenshots here:
-
-```
-docs/
- ├── dashboard.png
- └── prediction.png
-```
-
-Example:
-
-![Dashboard](docs/dashboard.png)
-
-![Prediction](docs/prediction.png)
 
 
 ---
