@@ -14,7 +14,7 @@
 
 <br>
 
-🚀 **Live Demo:** https://customer-churn-prediction-mahadi.streamlit.app/
+🚀 **Live Demo:** **https://customer-churn-prediction-mahadi.streamlit.app/**
 
 <br>
 
